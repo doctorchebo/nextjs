@@ -1,0 +1,120 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "News Article 1",
+      "description": "description 1",
+      "category": "politics",
+      "date": "january 1"
+    },
+    {
+      "id": 2,
+      "title": "News Article 2",
+      "description": "description 2",
+      "category": "sp",
+      "date": "march 23"
+    },
+    {
+      "id": 3,
+      "title": "News Article 3",
+      "description": "description 3",
+      "category": "economics",
+      "date": "september 15"
+    },
+    {
+      "id": 4,
+      "title": "News Article 4",
+      "description": "description 4",
+      "category": "sports",
+      "date": "june 4"
+    },
+    {
+      "id": 5,
+      "title": "News Article 5",
+      "description": "description 5",
+      "category": "politics",
+      "date": "january 5"
+    },
+    {
+      "id": 6,
+      "title": "News Article 6",
+      "description": "description 6",
+      "category": "politics",
+      "date": "october 6"
+    },
+    {
+      "id": 7,
+      "title": "News Article 7",
+      "description": "description 7",
+      "category": "society",
+      "date": "december 25"
+    },
+    {
+      "id": 8,
+      "title": "News Article 8",
+      "description": "description 8",
+      "category": "cooking",
+      "date": "february 8"
+    },
+    {
+      "id": 9,
+      "title": "News Article 9",
+      "description": "description 9",
+      "category": "cooking",
+      "date": "january 9"
+    },
+    {
+      "id": 10,
+      "title": "News Article 10",
+      "description": "description 10",
+      "category": "politics",
+      "date": "july 10"
+    }
+  ],
+  "dashboard": {
+    "posts": 4,
+    "likes": 150,
+    "followers": 50,
+    "following": 250
+  },
+  "news": [
+    {
+      "id": 1,
+      "title": "News Article 1",
+      "description": "description 1",
+      "category": "politics"
+    },
+    {
+      "id": 2,
+      "title": "News Article 2",
+      "description": "description 2",
+      "category": "sports"
+    },
+    {
+      "id": 3,
+      "title": "News Article 3",
+      "description": "description 3",
+      "category": "economics"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "product 1",
+      "price": 1500,
+      "description": "description 1"
+    },
+    {
+      "id": 2,
+      "title": "product 2",
+      "price": 250,
+      "description": "description 2"
+    },
+    {
+      "id": 3,
+      "title": "product 3",
+      "price": 350,
+      "description": "description 3"
+    }
+  ]
+}

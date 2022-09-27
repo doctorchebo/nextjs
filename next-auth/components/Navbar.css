@@ -1,0 +1,50 @@
+.main-nav {
+  display: flex;
+}
+
+a,
+h1,
+h2 {
+  text-decoration: none;
+  color: blueviolet;
+}
+
+ul {
+  list-style: none;
+  padding: none;
+  margin: none;
+}
+
+.logo a,
+.main-nav a {
+  padding: 1rem 1rem;
+  display: block;
+}
+
+.main-nav a {
+    font-size: 1.2rem;
+    text-transform: uppercase;
+}
+
+.main-nav a:hover {
+  color: darkmagenta;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(207, 184, 230);
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.loading {
+  opacity: 0;
+  transition: all 0.2s ease-in;
+}
+
+.loaded {
+  opacity: 1;
+  transition: all 0.2s ease-in;
+}
+
